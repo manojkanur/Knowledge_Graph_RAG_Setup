@@ -18,7 +18,7 @@ Build a Knowledge Graph RAG (Retrieval Augmented Generation) backend API using F
 - python-dotenv (Configuration)
 - spaCy (Basic NLP - optional)
 
-## Project Structure
+### Project Structure
 ```
 kg-rag-tamil-cinema/
 ├── app/
