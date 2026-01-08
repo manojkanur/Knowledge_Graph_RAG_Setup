@@ -1,6 +1,6 @@
 # Project: Tamil Cinema Knowledge Graph RAG - Flask API
 
-## Project Overview
+# Project Overview
 Build a Knowledge Graph RAG (Retrieval Augmented Generation) backend API using Flask that allows users to ask natural language questions about Tamil Cinema and get accurate answers by querying a Neo4j knowledge graph.
 
 ## Learning Objectives
